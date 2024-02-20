@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Daisy",
+    "age": 20,
+    "person_photo": "https://i.pinimg.com/564x/d0/23/c4/d023c4ff15522ef3683668a55d237ddd.jpg"
+  },
+  {
+    "name": "Jane",
+    "age": 22,
+    "person_photo": "https://i.pinimg.com/736x/7e/a6/c5/7ea6c5fe7606e2bc0b04aed614f9372d.jpg"
+  },
+  {
+    "name": "Alice",
+    "age": 24,
+    "person_photo": "https://i.pinimg.com/564x/42/e5/97/42e597cebc10a4ec996c939eb7e81ebc.jpg"
+  }
+]
